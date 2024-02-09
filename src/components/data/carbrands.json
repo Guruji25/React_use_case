@@ -1,0 +1,53 @@
+[
+ 
+    {
+        "name": "Maruthi Suzuki",
+        "image": "",
+        "id": "001"
+    },
+    {
+        "name": "Hyundai",
+        "image": "",
+        "id": "002"
+    },
+    {
+        "name": "Renault",
+        "image": "",
+        "id": "003"
+    },
+    {
+        "name": "Honda",
+        "image": "",
+        "id": "004"
+    },
+    {
+        "name": "Tata",
+        "image": "",
+        "id": "005"
+    },
+    {
+        "name": "Ford",
+        "image": "",
+        "id": "006"
+    },
+    {
+        "name": "Volkswagen",
+        "image": "",
+        "id": "007"
+    },
+    {
+        "name": "Mahindra",
+        "image": "",
+        "id": "008"
+    },
+    {
+        "name": "BMW",
+        "image": "",
+        "id": "009"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "image": "",
+        "id": "010"
+    }
+]
